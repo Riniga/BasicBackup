@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BasicBackup.BasicBackupCmd": {
+      "commandName": "Project",
+      "commandLineArgs": "/Y /V /S e:\\source\\  e:\\test"
+    }
+  }
+}
